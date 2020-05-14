@@ -3,7 +3,10 @@
 
 ## Tutorials in project
 
-* [rando](https://makecode.microbit.org/beta#tutorial:github:pelikhan/demo-tutorial/rando)
+### rando
+
+* [open docs](/random)
+* [start in makecode](https://makecode.microbit.org/beta#tutorial:github:pelikhan/demo-tutorial/rando)
 
 ## Edit this project ![Build status badge](https://github.com/pelikhan/demo-tutorial/workflows/MakeCode/badge.svg)
 
