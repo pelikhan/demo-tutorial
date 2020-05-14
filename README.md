@@ -5,7 +5,7 @@
 
 ### rando
 
-* [open docs](/rando-tutorial/rando)
+* [open docs](/demo-tutorial/rando)
 * [start in makecode](https://makecode.microbit.org/beta#tutorial:github:pelikhan/demo-tutorial/rando)
 
 ## Edit this project ![Build status badge](https://github.com/pelikhan/demo-tutorial/workflows/MakeCode/badge.svg)
